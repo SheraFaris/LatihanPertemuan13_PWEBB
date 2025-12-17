@@ -1,9 +1,3 @@
-# LatihanPertemuan13_PWEBB
-
-Baik. Berikut **laporan yang sudah disesuaikan** dengan **topik utama: Arsitektur Aplikasi Web** dan **penekanan Arsitektur 3-Layer (Three-Tier Architecture)**. Bahasanya formal dan cocok untuk laporan kuliah ITS.
-
----
-
 # **LAPORAN PRAKTIKUM**
 
 ## **IMPLEMENTASI ARSITEKTUR APLIKASI WEB 3-LAYER PADA APLIKASI CRUD DATA SISWA**
@@ -202,24 +196,3 @@ Dari praktikum ini dapat disimpulkan bahwa:
 3. Pemisahan Presentation, Application, dan Data Layer meningkatkan maintainability
 4. PHP dan MySQL cocok untuk implementasi arsitektur web dasar
 
----
-
-## **10. Saran Pengembangan**
-
-Pengembangan lanjutan yang dapat dilakukan:
-
-* Menambahkan MVC pattern
-* Implementasi login dan role user
-* REST API untuk integrasi frontend
-* Deployment ke server cloud
-
----
-
-Jika kamu mau, aku bisa:
-
-* **Memadatkan ke 5 halaman**
-* **Menyesuaikan rubrik dosen (Arsitektur Web)**
-* **Menambahkan diagram arsitektur (Three-Tier Diagram)**
-* **Mengubah ke format PDF / DOCX**
-
-Tinggal bilang 👍
